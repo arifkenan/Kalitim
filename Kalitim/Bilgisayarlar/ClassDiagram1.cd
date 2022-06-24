@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kalitim.Bilgisayarlar.Anakart">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Anakart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.BaseClass" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAgAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACA=</HashCode>
+      <FileName>Bilgisayarlar\BaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.Bilgisayar">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgACAAACAAAAAAAAAAAAAAAAAAgAAAAAACAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Bilgisayar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.Cpu">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Cpu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.EkranKarti">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\EkranKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.Kasa">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Kasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.Marka">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Marka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Bilgisayarlar.Ram">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Ram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Kalitim.Bilgisayarlar.CpuTip">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Bilgisayarlar\Cpu.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kalitim.Bilgisayarlar.EkranKartiTipi">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\EkranKarti.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kalitim.Bilgisayarlar.KasaTip">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Kasa.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kalitim.Bilgisayarlar.RamTipi">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayarlar\Ram.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
